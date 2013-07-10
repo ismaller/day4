@@ -117,8 +117,8 @@ names_hash = { "hoodie" => "Neal", "snuggie" => "Mike", "blackhawks" => "Jeff", 
 
 # Now I don't need to remember the order; I just need to know what I'm looking for.
 
-puts "Key hoodie: #{names_hash["hoodie"]}"
-puts "Key blackhawks: #{names_hash["blackhawks"]}"
+# puts "Key hoodie: #{names_hash["hoodie"]}"
+# puts "Key blackhawks: #{names_hash["blackhawks"]}"
 
 # Cool, huh? Now I can look things up in my list without needing to know the order.
 # For my fellow Excel junkies, it's kind of like a VLOOKUP.
